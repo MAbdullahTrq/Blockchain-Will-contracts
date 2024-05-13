@@ -19,12 +19,6 @@ Managing wills and testaments can be a complex and cumbersome process, often inv
 - **Truffle**: Truffle framework is used for development, testing, and deployment of smart contracts.
 - **IPFS**: InterPlanetary File System (IPFS) is used for decentralized storage of documents associated with the wills.
 
-## Getting Started
-1. Clone the repository: `git clone https://github.com/MAbdullahTrq/BlockchainWill-Main`
-2. Install dependencies: `npm install`
-3. Compile and migrate contracts: `truffle compile && truffle migrate`
-4. Start the development server: `npm start`
-
 ## Contributing
 We welcome contributions from the community to enhance the features and functionality of the Blockchain Will Management Project. If you'd like to contribute, please fork the repository and submit a pull request with your changes.
 
