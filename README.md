@@ -1,4 +1,4 @@
-v# Blockchain Will Management Project
+# Blockchain Will Management Project
 
 Welcome to the Blockchain Will Management Project repository! This project aims to revolutionize the traditional process of managing wills and testaments by leveraging the power of blockchain technology. This repo contains the smart contracts for the Blockchain Will project.
 
